@@ -9,6 +9,9 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             Console.WriteLine("おはよう");
             Console.WriteLine("こんにちは");
+
+            //displayブランチを追加しました。
+            Console.WriteLine("display brunch");
         }
     }
 }
